@@ -28,8 +28,10 @@ Features
 * Check node uptime across multiple testnets
 * Measure network response latency
 * Generate health status reports
+
 Configuration
 You can configure target testnets and monitoring intervals in the config.json file.
+
 Contribution
 Contributions are very welcome!
 If you want to help improve this project, please:
@@ -38,6 +40,8 @@ If you want to help improve this project, please:
 * Commit your changes (git commit -m 'Add some feature')
 * Push to the branch (git push origin feature/your-feature)
 * Open a Pull Request
+
 License
 This project is licensed under the MIT License.
+
 "Build to learn. Learn to contribute." - 0xmoera
